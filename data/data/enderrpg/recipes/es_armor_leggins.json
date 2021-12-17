@@ -1,0 +1,36 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_stone"
+    },
+    "1": {
+      "item": "minecraft:end_stone"
+    },
+    "2": {
+      "item": "minecraft:end_stone"
+    },
+    "3": {
+      "item": "minecraft:end_stone"
+    },
+    "5": {
+      "item": "minecraft:end_stone"
+    },
+    "6": {
+      "item": "minecraft:end_stone"
+    },
+    "8": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "enderrpg:end_stone_armor_leggings",
+    "count": 1
+  }
+}

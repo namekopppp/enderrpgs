@@ -1,0 +1,29 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:enderman_head"
+    },
+    "2": {
+      "item": "enderrpg:enderman_head"
+    },
+    "3": {
+      "item": "enderrpg:enderman_head"
+    },
+    "4": {
+      "item": "enderrpg:red_es_armor_boots"
+    },
+    "5": {
+      "item": "enderrpg:enderman_head"
+    }
+  },
+  "result": {
+    "item": "enderrpg:enderman_armor_boots",
+    "count": 1
+  }
+}

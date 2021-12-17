@@ -1,0 +1,32 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "3": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "enderrpg:end_wood_planks"
+    }
+  },
+  "result": {
+    "item": "enderrpg:end_wood_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:enderman_head"
+    },
+    "1": {
+      "item": "enderrpg:red_es_shovel"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "enderrpg:enderman_shovel",
+    "count": 1
+  }
+}

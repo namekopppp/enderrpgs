@@ -1,0 +1,32 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:enderman_head"
+    },
+    "1": {
+      "item": "enderrpg:enderman_head"
+    },
+    "2": {
+      "item": "enderrpg:enderman_head"
+    },
+    "3": {
+      "item": "enderrpg:enderman_head"
+    },
+    "4": {
+      "item": "enderrpg:red_es_armor_helmet"
+    },
+    "5": {
+      "item": "enderrpg:enderman_head"
+    }
+  },
+  "result": {
+    "item": "enderrpg:enderman_armor_helmet",
+    "count": 1
+  }
+}

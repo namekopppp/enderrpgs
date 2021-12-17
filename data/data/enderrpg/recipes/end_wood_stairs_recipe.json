@@ -1,0 +1,33 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "3": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "4": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "6": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "7": {
+      "item": "enderrpg:end_wood_planks"
+    },
+    "8": {
+      "item": "enderrpg:end_wood_planks"
+    }
+  },
+  "result": {
+    "item": "enderrpg:end_wood_stairs",
+    "count": 4
+  }
+}

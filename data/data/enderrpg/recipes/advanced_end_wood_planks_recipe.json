@@ -1,0 +1,13 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:advancedendwood_log"
+    }
+  ],
+  "result": {
+    "item": "enderrpg:advanced_end_wood_planks",
+    "count": 4
+  }
+}

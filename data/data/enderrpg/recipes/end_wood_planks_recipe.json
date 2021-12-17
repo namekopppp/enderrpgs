@@ -1,0 +1,13 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:endwood_log"
+    }
+  ],
+  "result": {
+    "item": "enderrpg:end_wood_planks",
+    "count": 4
+  }
+}

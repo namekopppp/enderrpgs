@@ -1,0 +1,33 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:advanced_end_stone"
+    },
+    "1": {
+      "item": "enderrpg:enderman_head"
+    },
+    "2": {
+      "item": "enderrpg:advanced_end_stone"
+    },
+    "4": {
+      "item": "sticks_core:end_stone_stick"
+    },
+    "5": {
+      "item": "enderrpg:advanced_end_stone"
+    },
+    "7": {
+      "item": "sticks_core:end_stone_stick"
+    }
+  },
+  "result": {
+    "item": "enderrpg:ender_explosion_rod",
+    "count": 1
+  }
+}

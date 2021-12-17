@@ -1,0 +1,13 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderrpg:advanced_end_stone"
+    }
+  ],
+  "result": {
+    "item": "minecraft:end_stone",
+    "count": 9
+  }
+}

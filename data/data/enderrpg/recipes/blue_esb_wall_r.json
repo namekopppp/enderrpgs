@@ -1,0 +1,32 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:blue_end_stone_bricks"
+    },
+    "1": {
+      "item": "enderrpg:blue_end_stone_bricks"
+    },
+    "2": {
+      "item": "enderrpg:blue_end_stone_bricks"
+    },
+    "3": {
+      "item": "enderrpg:blue_end_stone_bricks"
+    },
+    "4": {
+      "item": "enderrpg:blue_end_stone_bricks"
+    },
+    "5": {
+      "item": "enderrpg:blue_end_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "enderrpg:blue_end_stone_bricks_wall",
+    "count": 6
+  }
+}

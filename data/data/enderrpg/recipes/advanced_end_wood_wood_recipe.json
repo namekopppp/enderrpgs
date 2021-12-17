@@ -1,0 +1,26 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:advanced_end_wood_log"
+    },
+    "1": {
+      "item": "enderrpg:advanced_end_wood_log"
+    },
+    "2": {
+      "item": "enderrpg:advanced_end_wood_log"
+    },
+    "3": {
+      "item": "enderrpg:advanced_end_wood_log"
+    }
+  },
+  "result": {
+    "item": "enderrpg:advanced_end_wood_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "sticks_core:end_stone_stick"
+    },
+    "2": {
+      "item": "enderrpg:end_string"
+    },
+    "3": {
+      "item": "sticks_core:end_stone_stick"
+    },
+    "5": {
+      "item": "enderrpg:end_string"
+    },
+    "7": {
+      "item": "sticks_core:end_stone_stick"
+    },
+    "8": {
+      "item": "enderrpg:end_string"
+    }
+  },
+  "result": {
+    "item": "enderrpg:end_stone_bow",
+    "count": 1
+  }
+}
