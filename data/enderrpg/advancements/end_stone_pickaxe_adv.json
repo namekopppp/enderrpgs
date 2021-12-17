@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "enderrpg:end_stone_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.end_stone_pickaxe_adv.title"
+    },
+    "description": {
+      "translate": "advancements.end_stone_pickaxe_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "end_stone_pickaxe_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "enderrpg:end_stone_pickaxe",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "enderrpg:ender_rpg_adv"
+}

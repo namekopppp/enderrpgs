@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "enderrpg:red_end_stone",
+    "enderrpg:blue_end_stone",
+    "enderrpg:yellow_end_stone",
+    "enderrpg:brown_end_stone",
+    "enderrpg:black_end_stone",
+    "enderrpg:white_end_stone",
+    "enderrpg:pink_end_stone",
+    "enderrpg:lime_end_stone",
+    "enderrpg:green_end_stone",
+    "enderrpg:orange_end_stone",
+    "enderrpg:purple_end_stone",
+    "enderrpg:cyan_end_stone",
+    "enderrpg:gray_end_stone",
+    "enderrpg:light_blue_end_stone"
+  ]
+}

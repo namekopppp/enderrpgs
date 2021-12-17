@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "enderrpg:end_wood_log"
+    },
+    "title": {
+      "translate": "advancements.end_forest_adv.title"
+    },
+    "description": {
+      "translate": "advancements.end_forest_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "end_forest_adv": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "enderrpg:end_forest"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "enderrpg:over_end_dimension_adv"
+}

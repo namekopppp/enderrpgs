@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "title": {
+      "translate": "advancements.red_end_stone_adv.title"
+    },
+    "description": {
+      "translate": "advancements.red_end_stone_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "red_end_stone_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "enderrpg:red_end_stone",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "enderrpg:ender_rpg_adv"
+}

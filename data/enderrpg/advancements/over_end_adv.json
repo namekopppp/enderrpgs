@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "enderrpg:end_grass"
+    },
+    "title": {
+      "translate": "advancements.over_end_adv.title"
+    },
+    "description": {
+      "translate": "advancements.over_end_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "over_end_adv": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "enderrpg:over_end"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "enderrpg:ender_rpg_adv"
+}

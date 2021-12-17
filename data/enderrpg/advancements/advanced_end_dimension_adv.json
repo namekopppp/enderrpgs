@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "enderrpg:advanced_end"
+    },
+    "title": {
+      "translate": "advancements.advanced_end_dimension_adv.title"
+    },
+    "description": {
+      "translate": "advancements.advanced_end_dimension_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "advanced_end_dimension_adv": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "enderrpg:advanced_end"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "enderrpg:over_end_dimension_adv"
+}

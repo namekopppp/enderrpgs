@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "enderrpg:advanced_ender_pearl"
+    },
+    "title": {
+      "translate": "advancements.ender_rpg_adv.title"
+    },
+    "description": {
+      "translate": "advancements.ender_rpg_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "criteria": {
+    "ender_rpg_adv": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}
