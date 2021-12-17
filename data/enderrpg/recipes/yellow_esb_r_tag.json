@@ -1,0 +1,16 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "enderrpg:color_end_stone_bricks"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "result": {
+    "item": "enderrpg:yellow_end_stone_bricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "2": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "3": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "4": {
+      "item": "enderrpg:end_stone_armor_boots"
+    },
+    "5": {
+      "item": "enderrpg:red_end_stone"
+    }
+  },
+  "result": {
+    "item": "enderrpg:red_es_armor_boots",
+    "count": 1
+  }
+}

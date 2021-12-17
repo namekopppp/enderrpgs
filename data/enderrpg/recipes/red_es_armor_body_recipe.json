@@ -1,0 +1,42 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "1": {
+      "item": "enderrpg:end_stone_armor_chestplate"
+    },
+    "2": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "3": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "4": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "5": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "6": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "7": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "8": {
+      "item": "enderrpg:red_end_stone"
+    }
+  },
+  "result": {
+    "item": "enderrpg:red_es_armor_chestplate",
+    "count": 1
+  }
+}

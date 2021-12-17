@@ -1,0 +1,32 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:white_end_stone"
+    },
+    "1": {
+      "item": "enderrpg:white_end_stone"
+    },
+    "2": {
+      "item": "enderrpg:white_end_stone"
+    },
+    "3": {
+      "item": "enderrpg:white_end_stone"
+    },
+    "4": {
+      "item": "enderrpg:white_end_stone"
+    },
+    "5": {
+      "item": "enderrpg:white_end_stone"
+    }
+  },
+  "result": {
+    "item": "enderrpg:white_end_stone_wall",
+    "count": 6
+  }
+}

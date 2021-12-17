@@ -1,0 +1,30 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "1": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "2": {
+      "item": "enderrpg:red_end_stone"
+    },
+    "3": {
+      "item": "enderrpg:end_stone_axe"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "enderrpg:red_es_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderrpg:soldier_sword_ingot"
+    }
+  ],
+  "result": {
+    "item": "enderrpg:soldier_sword_nugget",
+    "count": 9
+  }
+}

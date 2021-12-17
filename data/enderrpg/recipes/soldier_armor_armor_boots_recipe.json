@@ -1,0 +1,26 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:soldier_sword_ingot"
+    },
+    "2": {
+      "item": "enderrpg:soldier_sword_ingot"
+    },
+    "3": {
+      "item": "enderrpg:soldier_sword_ingot"
+    },
+    "5": {
+      "item": "enderrpg:soldier_sword_ingot"
+    }
+  },
+  "result": {
+    "item": "enderrpg:soldier_armor_armor_boots",
+    "count": 1
+  }
+}

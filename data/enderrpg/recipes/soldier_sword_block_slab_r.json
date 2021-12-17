@@ -1,0 +1,22 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:soldier_sword_block"
+    },
+    "1": {
+      "item": "enderrpg:soldier_sword_block"
+    },
+    "2": {
+      "item": "enderrpg:soldier_sword_block"
+    }
+  },
+  "result": {
+    "item": "enderrpg:soldier_sword_block_slab",
+    "count": 6
+  }
+}

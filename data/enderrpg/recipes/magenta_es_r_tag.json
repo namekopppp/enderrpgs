@@ -1,0 +1,16 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "enderrpg:color_end_stone"
+    },
+    {
+      "item": "minecraft:magenta_dye"
+    }
+  ],
+  "result": {
+    "item": "enderrpg:megenta_end_stone",
+    "count": 1
+  }
+}

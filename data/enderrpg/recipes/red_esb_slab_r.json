@@ -1,0 +1,22 @@
+{
+  "group": "enderrpg",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "enderrpg:red_end_stone_bricks"
+    },
+    "1": {
+      "item": "enderrpg:red_end_stone_bricks"
+    },
+    "2": {
+      "item": "enderrpg:red_end_stone_bricks"
+    }
+  },
+  "result": {
+    "item": "enderrpg:red_end_stone_bricks_slab",
+    "count": 6
+  }
+}
