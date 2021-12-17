@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="enderrpg"
+version="1.0.2"
+displayName="EnderRPG"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://namekopppp-mc.hateblo.jp"
+logoFile="logo.png"
+authors="namekopppp"
+
+[[dependencies.enderrpg]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.enderrpg]]
+    modId="sticks_core"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
